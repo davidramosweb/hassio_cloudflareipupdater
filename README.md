@@ -15,7 +15,7 @@ The available configuration options are as follows (this is filled in with some 
     "host": "sub.yourdomain.com",
     "email": "hello@yourdomain.com",
     "api": "yourAPIkeyFromCloudflare"
-  }
+}
 ```
 
 You should add this in your automations.yaml:
